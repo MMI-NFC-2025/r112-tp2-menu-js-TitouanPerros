@@ -17,4 +17,13 @@ toggle.addEventListener("click", () => {
     toggle.ariaExpanded = "true";
     document.body.classList.add("noscroll");
   }
+  toggle.addEventListener("click", () => {
+  const isOpen = toggle.ariaExpanded === "true";
+  const nextIsOpen = !isOpen;
+
+  nav.ariaHidden = nextIsOpen ? "false" : "true";
+  toggle.ariaExpanded = nextIsOpen ? "true" : "false";
+  document.body.classList.toggle("noscroll", nextIsOpen);
 });
+});
+
