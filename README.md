@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Fbrh6DdB)
 - nom :Perros
 - prénom : Titouan
-- URL Netlify : https://github.com/MMI-NFC-2025/r112-tp2-menu-js-TitouanPerros.git
+- URL Netlify : https://sparkling-cobbler-e47c32.netlify.app/
 
 # Travail
 
